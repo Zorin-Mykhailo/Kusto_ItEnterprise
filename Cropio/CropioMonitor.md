@@ -1,2 +1,2 @@
-[Список процесів](./README.md)
+[Список процесів](../README.md)
 # ⚙ Cropio. Monitor
